@@ -4,9 +4,12 @@ Building out different models to accurately predict various outcomes in any give
 
 The vision of this project would be to continuously create new models and variations of existing models that predict the overall outcome of NFL games each week. A database would be used to track model parameters(features, model types, etc.) and historical predictions/outcomes. Finally a web application would also be created to clearly see which models are performing best week over week as the NFL season progresses throughout the year. 
 
-## References
-- Original inspiration pulled from [Active State page](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
-- 538 ELO Ratings from [here](https://data.fivethirtyeight.com/#nfl-elo)
+### Prediction Outcome Ideas
+- Team win/lose
+- First play pass/rush
+- Over/Under
+- Anytime Touchdown scorer
+
 
 ## Installation
 
@@ -29,3 +32,7 @@ TO:
 There is currently an open [issue](https://github.com/roclark/sportsipy/issues/729) for this, but even the proposed solution does not account for unplayed games in the current season. The fix above will make this work.
 
 ## Documentation
+
+## References
+- Original inspiration pulled from [Active State page](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
+- 538 ELO Ratings from [here](https://data.fivethirtyeight.com/#nfl-elo)
