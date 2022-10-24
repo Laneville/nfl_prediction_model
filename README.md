@@ -36,3 +36,4 @@ There is currently an open [issue](https://github.com/roclark/sportsipy/issues/7
 ## References
 - Original inspiration pulled from [Active State page](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
 - 538 ELO Ratings from [here](https://data.fivethirtyeight.com/#nfl-elo)
+- [Building A Logistic Regression in Python](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
